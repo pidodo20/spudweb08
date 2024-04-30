@@ -1,0 +1,15 @@
+* {margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Poppins", sans-serif;
+ }
+ 
+ body {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     min-height: 50vh;
+     background: url('https://wallpapercg.com/download/sage-green-background-4k--12421.png');
+ }
+ h1 {justify-content: center;
+color: azure;}
